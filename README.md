@@ -193,7 +193,7 @@ This is an active research and development project with ongoing work in:
 [Add appropriate license information]
 
 ## Contact & Support
-
+EmaIL: https://github.com/TharinduMR
 For questions, ideas, or collaboration opportunities:
 - Open a GitHub Issue for bugs and feature requests
 - Start a Discussion for technical questions
