@@ -190,7 +190,7 @@ This is an active research and development project with ongoing work in:
 
 ## License
 
-[Add appropriate license information]
+
 
 ## Contact & Support
 EmaIL: https://github.com/TharinduMR
